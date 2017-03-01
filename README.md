@@ -19,4 +19,4 @@ Dieses Repository enthält die notwendigen Dateien für das __Computerpraktikum_
 
 ##Mathematica Notebooks
 
-`unit_test_template.nb` - Dieses Mathematica Notebook ist eine Kontrolle für Ihre Bearbeitung von Aufgabe 1 - 4 aus dem Mathematik Skript (Kapitel 8) gedacht. Kopieren sie den Inhalt an das Ende Ihrer eigenen Datei und lassen Sie Ihr Notebook nochmal durchlaufen. Der Vergleich mit den Musterergebnissen sollte `True` zurückgeben.
+`unit_test_template.nb` - Dieses Mathematica Notebook ist eine Kontrolle für Ihre Bearbeitung von Aufgabe 1 - 4 aus dem Mathematik Skript (Kapitel 8). Kopieren sie den Inhalt an das Ende Ihrer eigenen Datei und lassen Sie Ihr Notebook nochmal durchlaufen. Der Vergleich mit den Musterergebnissen sollte `True` zurückgeben.
